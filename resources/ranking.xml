@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_71" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList" id="ArrayList0">
+  <void method="add">
+   <object class="worldsimulator.Result">
+    <void property="gameTime">
+     <long>1418138</long>
+    </void>
+    <void property="name">
+     <string>Senastian</string>
+    </void>
+    <void property="startTime">
+     <long>1420571879299</long>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="worldsimulator.Result">
+    <void property="gameTime">
+     <long>1390668</long>
+    </void>
+    <void property="startTime">
+     <long>1420563041997</long>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="worldsimulator.Result">
+    <void property="gameTime">
+     <long>542386</long>
+    </void>
+    <void property="name">
+     <string>Sebastian</string>
+    </void>
+    <void property="startTime">
+     <long>1420652498706</long>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="worldsimulator.Result">
+    <void property="gameTime">
+     <long>343320</long>
+    </void>
+    <void property="name">
+     <string>Sebastian</string>
+    </void>
+    <void property="startTime">
+     <long>1420558101218</long>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="worldsimulator.Result">
+    <void property="gameTime">
+     <long>305294</long>
+    </void>
+    <void property="startTime">
+     <long>1420504327159</long>
+    </void>
+   </object>
+  </void>
+ </object>
+ <object idref="ArrayList0"/>
+ <object idref="ArrayList0"/>
+ <object idref="ArrayList0"/>
+ <object idref="ArrayList0"/>
+</java>
